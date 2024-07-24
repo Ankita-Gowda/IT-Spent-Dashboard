@@ -1,6 +1,6 @@
 # IT-Spent-Dashboard-Insights
 PowerBi Analysis Dashboard 
-
+View the Live Dashboard- https://app.powerbi.com/groups/me/dashboards/b8aec846-4a13-4f0f-9900-8733b887127e?experience=power-bi
 The dashboard provides a comprehensive overview of IT spending performance, comparing actual spending to planned budgets across various dimensions: business areas, countries/regions, and time periods. It highlights variances and enables deeper analysis of spending trends and patterns.
 
 # Key Components
